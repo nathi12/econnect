@@ -1,0 +1,2 @@
+java --module-path "C:\javafx-sdk-17.0.2\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media
+-jar "C:\Users\NATHI\Documents\2023\CSC3A\project\220147785_CSC03A3_MP\mini-project.jar"
